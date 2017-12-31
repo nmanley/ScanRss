@@ -1,0 +1,12 @@
+{
+  "name": "nmanley/scanrss",
+  "description": "Karmorra's ShowRss Simple Torrent Downloader.",
+  "minimum-stability": "stable",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "nmanley\\ScanRss\\": "src/"
+    }
+  }
+}
